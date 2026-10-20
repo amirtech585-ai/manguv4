@@ -1,0 +1,8 @@
+{
+  "name": "Remix ManguDelivery",
+  "description": "Masaka City's marketplace and boda-boda delivery platform connecting buyers, sellers, and riders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
